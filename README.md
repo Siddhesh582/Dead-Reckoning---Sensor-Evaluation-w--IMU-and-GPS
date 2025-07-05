@@ -1,5 +1,6 @@
-🚗 ## Dead Reckoning & Sensor Evaluation with IMU and GPS
-📌 # Overview
+🚗 ##Dead Reckoning & Sensor Evaluation with IMU and GPS 
+
+📌 #Overview
 This project implements a robust sensor fusion system for vehicle navigation in urban environments where GPS signals are frequently degraded or blocked. By combining high-frequency IMU data with low-frequency GPS measurements, the system achieves reliable dead reckoning capabilities suitable for autonomous vehicle applications.
 
 ❗ # Problem Statement
